@@ -18,7 +18,7 @@ data_db = [
     {'id': 3, 'title': 'Джулия Робертс', 'content': 'Биография Джулия Робертс', 'is_published': True},
 ]
 
-
+# test
 def index(request):
     data = {
         'title': 'Главная страница',
